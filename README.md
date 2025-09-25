@@ -53,8 +53,6 @@ java -cp out edu.ccrm.CCRMMain
 - Immutable value: `Name`
 - Arrays & Operators demo: `util.DemoUtils.arraysAndOperatorsDemo()`
 
-## Screenshots
-- Place screenshots in `screenshots/` (installation, Eclipse run, CLI, backups)
 
 ## Acknowledgements
 - Standard Java documentation.
